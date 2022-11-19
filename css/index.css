@@ -1,0 +1,144 @@
+body {
+    height: 3000px;
+    font-size: 微软雅黑;
+}
+.perfect {
+    height: 678px;   
+    margin-left:0px;
+}
+/* <!-- 首页四个大图标 --> */
+.si {
+    width: 1283px;
+    height: 202px;
+    background-color: #127a59;
+    padding: 0px 350px;
+}
+.si .box {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+.si .box .frist {
+    width: 244px;
+    height: 100px;
+    float: left;
+    margin: 50px auto;
+    border-right: 1px solid #669F8D;
+}
+.si .box .frist .frist-yi {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.si .box .frist .frist-yi img {
+    margin: 10px 0px;
+}
+.si .box1 .frist .frist-er {
+    width: 144px;
+    height: 100px;
+    float: left;
+}
+.si .box .frist .frist-er h4 {
+    color: #FFFFFF;
+}
+.si .box .frist .frist-er p {
+    font-size: 12px;
+    line-height: 1.8;
+    color: #FFFFFF;
+}
+.our {
+    height: 787px;
+    
+}
+.our .our-left {
+    width: 335px;
+    height: 787px;
+    float: left;
+}
+.our .our-left p {
+    display: inline-block;
+    margin-top: 100px;
+    font-size: 40px;
+    color: #333333;
+}
+.our .our-left img {
+    margin-top: 60px;
+}
+.our .our-left p span {
+    display: inline-block;
+    border-bottom: 4px solid #127a59;
+}
+.our .our-right {
+    float: left;
+    width: 843px;
+    height: 787px;
+ 
+   margin-left: 22px;
+}
+.our .our-right p {
+    display: block;
+    margin-top: 146px;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-left: 51px;
+    color: #555;
+}
+.our .our-right a {
+    display: block;
+    font: normal 400 14px/1 '微软雅黑';   
+}
+.our .our-right a span {
+    display: block;
+    border-bottom: #127a59 2px solid;
+    margin-left: 784px;
+}
+
+.our .our-right img {
+    margin-top: 31px;
+}
+/* 经典案例 */
+.classic {
+    height: 755px;
+    background-color: #F8F8F8;
+}
+.classic p {
+    display: inline-block;
+    font-size: 40px;
+    color: #333333;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 53px;
+    
+}
+.classic p span {
+    display: inline-block;
+    border-bottom: #127a59 4px solid;
+}
+.classic .tupian {
+    width: 1054px;
+    height: 568px;
+    margin-left: 44px;
+}
+.classic .tupian img {
+    display: inline-block;
+}
+.classic .tupian .er {
+    margin-left: 30px;
+}
+.classic .tupian .san {
+    margin-left: 28px;
+}
+.classic .tupian .si {
+    padding: 0px 0px;
+    margin-top: 9px;
+    width: 250px;
+    height: 279px;
+}
+.classic .tupian .wu {
+    margin-top: 9px;
+     margin-left: 28px;
+}
+.classic .tupian .liu {
+    margin-left: 28px;
+    margin-top: 9px;
+} 

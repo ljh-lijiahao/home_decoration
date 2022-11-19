@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+em ,
+i {
+    font-style: normal;
+}
+
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #666;
+}
+/* 按钮变小手 */
+button {
+    cursor: pointer;
+}
+/* 图片对齐方式 */
+img {
+    vertical-align: middle;
+}
